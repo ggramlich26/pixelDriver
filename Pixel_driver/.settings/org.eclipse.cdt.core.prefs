@@ -52,7 +52,7 @@ environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.MCU/ope
 environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.MCU/value=atmega328p
 environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PATH/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PATH/operation=replace
-environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PATH/value=C\:\\Users\\ag4716\\Documents\\sloeber-workspace\\Pixel_driver\\Release
+environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PATH/value=C\:\\Users\\ag4716\\git\\pixelDriver\\Pixel_driver\\Release
 environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PROJECT_NAME/delimiter=;
 environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PROJECT_NAME/operation=replace
 environment/project/io.sloeber.core.toolChain.release.1343073778/A.BUILD.PROJECT_NAME/value=${ProjName}
